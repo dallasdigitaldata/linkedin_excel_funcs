@@ -1,6 +1,6 @@
 # ExcelToPython
 
-This repository contains resources to help Excel users transition to Python for data analysis, focusing on recreating popular Excel functions, charts, and advanced data handling techniques using Python's powerful libraries like `pandas` and `matplotlib`.
+This repository is designed to help Excel users transition to Python for data analysis, focusing on recreating popular Excel functions, charts, and advanced data handling techniques. For those who prefer to keep Excel as their primary tool, these resources also demonstrate how Python can be integrated with Excel to unlock powerful machine learning and advanced data processing capabilities.
 
 ## Files and Contents
 
@@ -16,16 +16,16 @@ This repository contains resources to help Excel users transition to Python for 
 
 ### Python in Excel Presentation and Demos
 - **`Enhance Excel with Python.pdf` / `Enhance Excel with Python.pptx`**  
-  A presentation covering why and how to integrate Python into Excel workflows to enhance data analysis capabilities, with a focus on automation and handling large datasets.
-  
+  A presentation on how to integrate Python into Excel workflows to enhance data analysis capabilities, automate tasks, and handle large datasets.
+
 - **`PythonInExcel/iris`**  
   Example folder for Python analysis of the `Iris` dataset in Excel, showcasing data manipulation and visualization.
-  
+
 - **`Iris Violin Plot Demo.xlsx`**  
-  Excel workbook used for creating violin plots with the Iris dataset as a demonstration of Excel-to-Python integration.
-  
+  Excel workbook for creating violin plots with the Iris dataset, demonstrating how Python can extend Excel’s native visualization tools.
+
 - **`Iris_Violin_Plot_Demo.py`**  
-  Python script generating violin plots for the Iris dataset, demonstrating visualization capabilities that go beyond Excel’s native tools.
+  Python script that generates violin plots for the Iris dataset, providing an example of advanced visualization beyond Excel’s native capabilities.
 
 ### Datasets and Images
 - **`Iris.xlsx`**  
